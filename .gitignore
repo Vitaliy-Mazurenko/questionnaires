@@ -1,0 +1,9 @@
+node_modules/
+.env
+.idea
+.vscode
+.DS_Store
+client/node_modules/
+server/node_modules/
+client/build/
+client/dist/
